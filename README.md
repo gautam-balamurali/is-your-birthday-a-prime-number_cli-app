@@ -2,7 +2,7 @@
 
 A CLI app to find if your birthday is a prime number.
 
-This is a levelZero practice project of neogCamp.https://neog.camp/guide/lessonone
+This is a levelZero practice project of [neogCamp.](https://neog.camp/guide/lessonone)
 
 # Preview
 
