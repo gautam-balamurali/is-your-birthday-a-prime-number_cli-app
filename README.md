@@ -2,6 +2,10 @@
 
 A CLI app to find if your birthday is a prime number.
 
+# Snapshots
+
+![image](https://user-images.githubusercontent.com/27736288/208908559-0d33d6cf-0148-4ce1-9205-6c7cabb7dafc.png)
+
 # Tech Stack
 
 * JavaScript
